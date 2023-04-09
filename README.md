@@ -22,18 +22,18 @@ Para la entrega su programa debe de cumplir con las siguientes especificaciones:
 
 Existirán 3 climas posibles:
 
-    - Despejado 
-    - Nublado  
-    - Lluvioso
+- Despejado 
+- Nublado  
+- Lluvioso
 
 La temperatura puede variar desde 5 grados Celsius hasta 30 grados Celsius:
 
-    - Las llamadas a nuestro API debe de ser por medio de llamadas asincrónicas
-    - Las llamadas van a simular una llamada de red, así que agregue un tiempo de espera con ayuda 
-      de la función setTimeout, esta es una función que usa Callbacks
-    - Esta actividad se puede realizar con JS para un navegador web, no es necesario utilizar 
-      electron 
-    - Debe mostrar en pantalla la fecha y los elementos solicitados. 
-    - A la hora de crear una solicitud nueva se deben de borrar los datos de la solicitud anterior 
-      de la pantalla
+- Las llamadas a nuestro API debe de ser por medio de llamadas asincrónicas
+- Las llamadas van a simular una llamada de red, así que agregue un tiempo de espera con ayuda 
+  de la función setTimeout, esta es una función que usa Callbacks
+- Esta actividad se puede realizar con JS para un navegador web, no es necesario utilizar 
+  electron 
+- Debe mostrar en pantalla la fecha y los elementos solicitados. 
+- A la hora de crear una solicitud nueva se deben de borrar los datos de la solicitud anterior 
+  de la pantalla
 
