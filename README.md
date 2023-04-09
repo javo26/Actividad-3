@@ -8,7 +8,7 @@ Los APIs son interfaces, es decir son un conjunto de funciones y protocolos que 
 
 Vamos a simular un API meteorológico que funcionara de la siguiente manera:
 
-    - Habrá dos elementos que el usuario puede consultar 
+- Habrá dos elementos que el usuario puede consultar 
 
 En el primero el usuario tendrá un elemento de input tipo date, en el cual puede seleccionar una fecha, luego habrá un botón el cual servirá para enviar la solicitud 
 
